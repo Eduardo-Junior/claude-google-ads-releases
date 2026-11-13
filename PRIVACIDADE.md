@@ -1,6 +1,6 @@
 # Política de Privacidade: Claude Google Ads
 
-Última atualização: 13 de novembro de 2026.
+Última atualização: 13 de novembro de 2026 (registro técnico e relatório de problema).
 
 O Claude Google Ads é um aplicativo para Windows que conecta o Claude Desktop às contas do Google Ads
 de quem o instala. Com ele, o Claude consulta e analisa campanhas, e cada alteração só é aplicada depois
@@ -25,6 +25,11 @@ contatos nem outros serviços do Google.
   durante a conversa, conforme a [política de privacidade da Anthropic](https://www.anthropic.com/legal/privacy).
 - Para verificar atualizações, o app consulta este repositório no GitHub. Essa consulta não leva nenhum
   dado seu.
+- O app guarda um registro técnico (log) em `%APPDATA%\ClaudeGoogleAds\logs`, para ajudar a resolver
+  problemas. Os arquivos ficam só no seu computador e são apagados sozinhos depois de 7 dias.
+- Em **Configuração → Algo deu errado?**, você pode gerar um relatório de problema. O app remove dele o
+  login, os tokens, os segredos e os e-mails, e mostra o conteúdo antes. O relatório só sai do computador
+  se você mesmo copiar ou enviar o arquivo para alguém.
 
 ## Compartilhamento
 
