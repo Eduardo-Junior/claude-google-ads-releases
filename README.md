@@ -43,7 +43,8 @@ assinatura certa é recusada.
 ## Privacidade
 
 Seus dados ficam no seu computador e vão direto para o Google Ads e para o Claude. Veja a
-[Política de Privacidade](PRIVACIDADE.md).
+[Política de Privacidade](PRIVACIDADE.md). Ao usar o app, você concorda com os
+[Termos de Serviço](TERMOS.md).
 
 ## Aviso
 
